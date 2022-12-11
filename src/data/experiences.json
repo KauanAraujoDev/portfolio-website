@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "experienceCompany": "Roux Host",
+        "experienceDescription": "Roux Host is a platform that sells web hosting, virtual machines to host servers and teamspeak.",
+        "experienceDate": "February 2021 - May 2021",
+        "experienceWork": "Founder & Basic Web Developer"
+    },
+    {
+        "id": 1,
+        "experienceCompany": "DripCode",
+        "experienceDescription": "DripCode is an online store that sells vehicle texturing for FiveM and maps using 3ds max and blender.",
+        "experienceDate": "August 2021 - October 2021",
+        "experienceWork": "Founder & Intermediate Developer"
+    },
+    {
+        "id": 2,
+        "experienceCompany": "OttonCode",
+        "experienceDescription": "OttonCode is a virtual store that sells ready-made scripts, with the aim of helping FiveM servers grow.",
+        "experienceDate": "January 2022 - June 2022",
+        "experienceWork": "Founder & Intermediate Developer"
+    },
+    {
+        "id": 3,
+        "experienceCompany": "PurpleShop",
+        "experienceDescription": "Purple Shop is a virtual store that sells ready-made scripts, with the aim of helping FiveM servers grow.",
+        "experienceDate": "August 2022 - November 2022",
+        "experienceWork": "Founder & Intermediate Developer"
+    }
+]

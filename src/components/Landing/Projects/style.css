@@ -1,0 +1,106 @@
+.project-components {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    padding: 1rem 0rem;
+}
+
+.project-components .project-components-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+    position: relative;
+    width: 67.5rem;
+    padding: 1rem 0rem;
+}
+
+.project-components-list .project-components-item {
+    width: 33.125rem;
+    padding: 1rem 0rem;
+    margin-right: 1.3rem;
+    margin-top: 5rem;
+}
+
+.project-components-item .image {
+    display: flex;
+    height: 12.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.project-components-item .image .bar {
+    width: .25rem;
+    height: 12.5rem;
+    background: #00D2DF;
+    border-radius: .25rem 0rem 0rem .25rem;
+}
+
+.project-components-item .text h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.8125rem;
+    
+    color: #FFFFFF;
+    margin-bottom: 1.875rem;
+}
+
+.project-components-item .text p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.625rem;
+
+    color: #C4C4C4;
+    margin-bottom: 1.625rem;
+}
+
+.project-components-item .text span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: .875rem;
+    line-height: 1.5rem;
+
+    color: #00D2DF;
+}
+
+.project-components-item .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    height: 2.8125rem;
+    width: 11.3125rem;
+    border-radius: .25rem;
+    
+    margin-top: 2rem;
+    background: linear-gradient(90deg, rgba(16,215,226,1) 50%, rgba(147,88,247,1) 100%);
+
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+.project-components-item .button:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.project-components-item .button svg {
+    margin-right: 1rem;
+    background: none;
+}
+
+.project-components-item .button h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.5rem;
+
+    color: #FFFFFF;
+    background: none;
+}

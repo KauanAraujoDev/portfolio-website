@@ -1,0 +1,40 @@
+footer {
+    display: flex;
+    justify-content: center;
+    height: 6.25rem;
+}
+
+footer .footer-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+
+    width: 67.5rem;
+    height: 100%;
+}
+
+footer .footer-container div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+footer .footer-container div p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.1875rem;
+
+    color: #C4C4C4;
+    margin-right: .5rem;
+    margin-left: .5rem;
+}
+
+footer .footer-container div #svg {
+    position: relative;
+    top: .5rem;
+    margin-left: .5rem;
+}

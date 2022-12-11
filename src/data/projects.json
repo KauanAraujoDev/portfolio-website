@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "projectName": "Minecraft Redisgn",
+        "projectDescription": "This project is a challenge from a group of front-end developers, with the aim of creating more portfolio for the members.",
+        "projectUrl": "https://minecraft-redisgn-website.vercel.app",
+        "technology": "React, Css3, TypeScript, Styled-Components",
+        "imageUrl": "https://media.discordapp.net/attachments/1013159628453970023/1050917148094111775/image.png?width=1226&height=702"
+    },
+    {
+        "id": 2,
+        "projectName": "Cloud Gaming",
+        "projectDescription": "This is a site I made for study, but it was made for a friend who needed it and I needed some example for training.",
+        "projectUrl": "https://cloud-service-website.vercel.app",
+        "technology": "React, Css3, TypeScript, Styled-Components",
+        "imageUrl": "https://media.discordapp.net/attachments/1013159628453970023/1050918648451170314/image.png"
+    },
+    {
+        "id": 3,
+        "projectName": "Portfolio Website",
+        "projectDescription": "This project is a challenge from a group of front-end developers, with the aim of creating more portfolio for the members.",
+        "projectUrl": "/",
+        "technology": "React, Css3, TypeScript, Styled-Components",
+        "imageUrl": "https://media.discordapp.net/attachments/1013159628453970023/1050918436122919042/image.png"
+    }
+]

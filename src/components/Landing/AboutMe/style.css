@@ -1,0 +1,151 @@
+.aboutme-container {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    height: 35.3125rem;
+    background: #151515;
+}
+
+.aboutme-container .aboutme-container-div {
+    display: flex;
+    align-items: center;
+
+    width: 67.5rem;
+    height: 100%;
+    background: none;
+}
+
+.aboutme-container-div .aboutme-photo {
+    display: flex;
+    justify-content: left;
+
+    position: relative;
+
+    width: 22.9375rem;
+    height: 22.9375rem;
+    
+    background: #121212;
+    border-radius: .25rem;
+}
+
+.aboutme-container-div .aboutme-text {
+    position: relative;
+    left: 11.5rem;
+
+    width: 33.125rem;
+
+    padding: 1rem 0rem;
+    
+    border-radius: .25rem;
+    background: none;
+}
+
+.aboutme-photo .aboutme-photo-bar {
+    width: .25rem;
+    height: 22.9375rem;
+
+    background: #00D2DF;
+    border-radius: .25rem rem 0rem .25rem;
+}
+
+.aboutme-photo .aboutme-photo-image {
+    width: 100%;
+    height: 100%;
+    border-radius: .25rem;
+}
+
+.aboutme-text .text {
+    background: none;
+}
+
+.aboutme-text .text h3 {
+    margin-bottom: 2.5rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.5rem;
+    line-height: 1.8125rem;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    background: none;
+}
+
+.aboutme-text .text h4 {
+    margin-bottom: 1.3125rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+
+    color: #FFFFFF;
+    background: none;
+}
+
+.aboutme-text .text p {
+    margin-bottom: 2.5rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.125rem;
+    line-height: 2rem;
+
+    color: #C4C4C4;
+    background: none;
+}
+
+.aboutme-text .aboutme-svg-list {
+    margin-bottom: 2.625rem;
+    background: none;
+}
+
+.aboutme-text .aboutme-svg-list #svg {
+    margin-right: 1.875rem;
+    background: none;
+    cursor: pointer;
+}
+
+.aboutme-text .aboutme-button {
+    display: flex;
+    background: none;
+}
+
+.aboutme-text .aboutme-button .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    height: 2.8125rem;
+    border-radius: .25rem;
+
+    padding: 0 1.5rem;
+
+    margin-right: 3rem;
+
+    opacity: 0.3;
+    transition: 0.5s;
+}
+
+.aboutme-text .aboutme-button .btn:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.aboutme-text .aboutme-button .btn #svg {
+    background: none;
+    margin-right: 1rem;
+}
+
+.aboutme-text .aboutme-button .btn h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.1875rem;
+
+    color: #FFFFFF;
+
+    background: none;
+}
