@@ -35,7 +35,7 @@ export default function AboutMe() {
                         <div className='text'>
                             <h3>SOBRE MIM</h3>
                             <h4>São Geraldo Do Araguaia, Brasil</h4>
-                            <p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id egestas dui. Nullam finibus aliquam enim quis faucibus. Aenean ac commodo dolor, nec bibendum velit.</small></p>
+                            <p><small>Working with website (back-end and front-end) development since the beginning of the year 2021, I have co-founded and developed multiple websites which impact 15.000 consumers in more than 6 states. Always concerned with the User Experience and using data-metrics to reach high retention rates.</small></p>
                         </div>
                         <div className='aboutme-svg-list'>
                             <Twitch id='svg' onClick={() => {window.open('https://www.twitch.tv/purpledevx', '_blank')}}/>
